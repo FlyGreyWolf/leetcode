@@ -20,7 +20,7 @@ package leetcode;
  * @since 2020-08-23
  *
  */
-public class 数字范围按位与 {
+public class _201_数字范围按位与 {
 
     public int rangeBitwiseAnd(int m, int n) {
         int offset = 0;
