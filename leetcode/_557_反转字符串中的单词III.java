@@ -12,7 +12,8 @@ import java.util.LinkedList;
  * 输入："Let's take LeetCode contest"
  * 输出："s'teL ekat edoCteeL tsetnoc"
  *  
- *
+ *.3
+ * 3
  * 提示：
  *
  * 在字符串中，每个单词由单个空格分隔，并且字符串中不会有任何额外的空格。
